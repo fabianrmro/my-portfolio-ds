@@ -1,4 +1,5 @@
 
+jupyter
 numpy
 pandas
 matplotlib
@@ -10,3 +11,5 @@ ipykernel
 scipy
 statsmodels
 plotly
+
+## El requirements.txt en un proyecto de Data Science debe contener solo las librerías Python que realmente vas a instalar con pip (no Conda, no sistema).
