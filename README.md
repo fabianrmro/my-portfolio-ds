@@ -89,8 +89,8 @@ my-portfolio-ds/
 ## 1️⃣ Crear el entorno
 
 ```bash
-conda create -n ds-env python=3.13
-conda activate ds-env
+conda create -n myenv python=3.11
+conda activate myenv
 ```
 
 ## 2️⃣ Instalar dependencias
@@ -112,8 +112,8 @@ jupyter notebook
 - [x] Git
 - [x] GitHub
 - [x] Python
-- [ ] NumPy
-- [ ] Pandas
+- [x] NumPy
+- [x] Pandas
 - [ ] Data Cleaning
 - [ ] Exploratory Data Analysis (EDA)
 - [ ] Data Visualization
