@@ -1,15 +1,10 @@
 
-Python 3.11
-Jupyter 1.1.1
-Numpy 2.4.6
-Pandas 3.0.3
-Matplotlib
-Seaborn
-Scikit-learn
-Notebook
-Ipykernel
-Scipy
-Statsmodels
-Plotly
+Python==3.11.15
+Jupyter==1.1.1
+Numpy==2.4.6
+Pandas==3.0.3
+Matplotlib==3.11.0
+Seaborn==0.13.2
+
 
 ## El requirements.txt en un proyecto de Data Science debe contener solo las librerías Python que realmente vas a instalar con pip (no Conda, no sistema).
